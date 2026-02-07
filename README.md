@@ -29,5 +29,3 @@ The framework provides standardized peripheral drivers, task management template
 - UAV avionics firmware
 - Industrial control systems
 - Embedded telemetry devices
-
-## Folder Structure
